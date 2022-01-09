@@ -8,3 +8,5 @@ def gog():
 print('ghghghghghg')
 print()
 print('пока')
+
+print("привет припте")
