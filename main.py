@@ -3,3 +3,7 @@ def pinat_р():
 
 def gog():
     pass
+
+
+print('ghghghghghg')
+print()
